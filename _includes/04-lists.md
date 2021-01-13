@@ -1,0 +1,4 @@
+- coffee
+- vegan food
+- walks 
+- interior design 
