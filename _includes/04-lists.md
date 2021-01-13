@@ -1,4 +1,4 @@
-[ ] coffee
-[ ] vegan food
-[ ] walks 
-[ ] interior design 
+- coffee
+- vegan food
+- walks 
+- interior design 
